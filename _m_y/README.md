@@ -23,7 +23,7 @@ it's loosing voltage, or energy.
 | --- | --- |
 | LR01 | Bus selector is connected to the cell to generate voltage, current and SOC% signas | 
 | LR02 | In display the battery percentage should have shown decreasingly from 100 to 0 |
-| LR03 | Stops charging at 100 by using ideal switch |
+
 
 ## SWOT ANALYSIS
 ![Screenshot (2)](https://user-images.githubusercontent.com/98849090/160076798-a94e9288-e74a-46de-ac36-7c9cdeaf60a0.png)
