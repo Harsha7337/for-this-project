@@ -26,7 +26,7 @@ it's loosing voltage, or energy.
 | LR03 | Stops charging at 100 by using ideal switch |
 
 ## SWOT ANALYSIS
-![SWOT](https://user-images.githubusercontent.com/98849090/160049830-a0728001-92cb-41c5-a838-8f2f237fdf09.jpg)
+![Screenshot (2)](https://user-images.githubusercontent.com/98849090/160076798-a94e9288-e74a-46de-ac36-7c9cdeaf60a0.png)
 
 
 ## WHO
